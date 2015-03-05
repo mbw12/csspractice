@@ -1,0 +1,24 @@
+body {
+font-family: Alright Sans,sans-serif;
+font-size: 93.75%;
+line-height: 1.66667;
+color: #4c4e4d;
+width: 640px;
+}
+
+h1{
+font-family: Balto,sans-serif;
+font-weight: 700;
+font-size: 3em;
+line-height: 1.1;
+margin: 0;
+max-width: 90%;
+padding-bottom: 0;
+}
+
+h2 {
+	font-family: Balto,sans-serif;
+	margin-bottom: 5px;
+	font-weight: bold;
+	line-height: 34px;
+}
